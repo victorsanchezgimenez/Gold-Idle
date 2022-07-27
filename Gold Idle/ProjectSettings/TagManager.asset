@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - StructureTwo
+  - StructureThree
+  - StructureFour
+  - StructureFive
+  - StructureSix
+  - StructureSeven
+  - StructureEight
+  - StructureNine
+  - StructureTen
+  - StructureHandler
+  - DataBase
+  - AddController
   layers:
   - Default
   - TransparentFX
